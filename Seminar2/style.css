@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+h2 {
+    text-decoration: underline;
+}
+
+table{
+    font-size: 25px;
+}
+
+ol{
+    font-size: 20px;
+}
+
+body {
+    background: rgb(247, 241, 131);
+    }
+
+img.logo{
+    float: right;
+}
